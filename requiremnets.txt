@@ -1,0 +1,6 @@
+Python
+PyTorch
+Ultralytics YOLOv8
+OpenCV
+NumPy
+SciPy

@@ -1,5 +1,37 @@
-## 🎥 Demo
+## Table of Contents
 
+- [Demo](#-demo)
+- [Project Objective](#project-objective)
+- [Dataset](#dataset)
+- [Detection Model](#detection-model)
+- [Tracking Methodology](#tracking-methodology)
+- [Tracking Pipeline](#tracking-pipeline)
+- [Where the Tracker Works Well](#where-the-tracker-works-well)
+- [Current Limitations](#current-limitations)
+- [Possible Improvements](#possible-improvements)
+- [Technologies Used](#technologies-used)## 🎥 Demo
+
+## Project Structure
+
+```text
+.
+├── dataset/
+├── tracking_Demo/
+├── main.py
+├── README.md
+├── requirements.txt
+├── tracking.py
+├── utils.py
+└── visualize.py
+```
+## Installation
+
+```bash
+git clone https://github.com/PUNEETH26-png/Custom-Multi-Object-Tracking-for-VisDrone-Dataset
+cd Custom-Multi-Object-Tracking-for-VisDrone-Dataset
+
+pip install -r requirements.txt
+```
 ### Multi-Object Tracking
 
 ![Tracking Demo](tracking_Demo/tracking_demo.gif)
